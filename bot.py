@@ -491,7 +491,7 @@ async def about_handler(c: Client, m: Message):
                 [InlineKeyboardButton("👨‍💻 Developer 👨‍💻", url="https://t.me/searchingshiv")],
                 [
                     InlineKeyboardButton(
-                        "🏘 Main Channel 🏘", url="https://github.com/the_silent_teams"
+                        "🏘 Main Channel 🏘", url="https://t.me/the_silent_teams"
                     ),
                     InlineKeyboardButton(
                         "🤔Deployed By🤔", url=f"https://t.me/{Config.OWNER_USERNAME}"
