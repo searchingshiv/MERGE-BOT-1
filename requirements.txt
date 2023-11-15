@@ -1,6 +1,5 @@
 dnspython
 ffmpeg-python
-git+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/tree/25e435c249
 hachoir
 Pillow
 psutil
