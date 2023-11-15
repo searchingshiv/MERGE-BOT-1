@@ -1,6 +1,5 @@
 dnspython
 ffmpeg-python
-git+https://github.com/FFmpeg/FFmpeg
 hachoir
 Pillow
 psutil
