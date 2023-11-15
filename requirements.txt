@@ -5,7 +5,7 @@ Pillow
 psutil
 pymongo
 Pyrogram
-pyromod
+pyromod==2.0.0
 python-dotenv
 requests
 TgCrypto
