@@ -9,7 +9,7 @@
 	],
 	"repository": "https://github.com/yashoswalyo/MERGE-BOT",
 	"website": "https://telegram.dog/yashoswalyo",
-	"stack": "container",
+	"stack": "heroku-20",
 	"env": {
 		"CONFIG_FILE_URL": {
 			"description": "Make Config on gist and paste raw link "
