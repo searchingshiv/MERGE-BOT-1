@@ -5,8 +5,8 @@ Pillow
 psutil
 pymongo
 Pyrogram
-pyromod==2.0.0
+pyromod
 python-dotenv
-requests==2.26.0
+requests
 TgCrypto
 Flask==2.2.2
