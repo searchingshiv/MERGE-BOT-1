@@ -1,3 +1,4 @@
+pip install requests
 from requests import get as rget
 from __init__ import LOGGER
 import os
