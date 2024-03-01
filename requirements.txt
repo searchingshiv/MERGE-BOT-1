@@ -1,4 +1,4 @@
-requests
+
 dnspython
 ffmpeg-python
 hachoir
@@ -11,3 +11,4 @@ python-dotenv
 requests
 TgCrypto
 Flask==2.2.2
+requests
